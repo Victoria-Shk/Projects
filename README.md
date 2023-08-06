@@ -1,4 +1,4 @@
-# Educational projects from Data Analyst(Yandex.Practicum) #
+# Educational projects from the Data Analyst course (Yandex.Practicum) #
 
 В данном репозитории хранятся проекты выполненные в рамках обучающего курса Аналитик-Данных (Яндекс.Практикум)
 
