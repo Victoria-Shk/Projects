@@ -6,7 +6,7 @@
      
 ## Вводные данные. ##
 
-![ER-diagram]()
+![ER-diagram](https://github.com/Victoria-Shk/Projects/blob/main/SQL/Image.png)
   
 ## Используемые языки. ##
 
